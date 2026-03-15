@@ -33,33 +33,43 @@ me.say_hi()
 
 **Frontend:**
 
-![TypeScript](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=6aa6f8)
-![Next.js](https://img.shields.io/badge/Framework-Next.js-informational?style=flat&logo=next.js&logoColor=white&color=6aa6f8)
-![Tailwind CSS](https://img.shields.io/badge/Style-TailwindCSS-informational?style=flat&logo=tailwindcss&logoColor=white&color=6aa6f8)
+<div>
+  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="TypeScript" title="TypeScript" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="Next.js" title="Next.js" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="Tailwind CSS" title="Tailwind CSS" />
+</div>
 
 **Backend:**
 
-![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
-![FastAPI](https://img.shields.io/badge/Framework-FastAPI-informational?style=flat&logo=fastapi&logoColor=white&color=6aa6f8)
-![PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=6aa6f8)
-![Apache Kafka](https://img.shields.io/badge/Messaging-Kafka-informational?style=flat&logo=apachekafka&logoColor=white&color=6aa6f8)
-![JWT](https://img.shields.io/badge/Auth-JWT-informational?style=flat&logo=jsonwebtokens&logoColor=white&color=6aa6f8)
+<div>
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="Python" title="Python" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=fastapi" height="40" alt="FastAPI" title="FastAPI" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="PostgreSQL" title="PostgreSQL" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=kafka" height="40" alt="Apache Kafka" title="Apache Kafka" />
+</div>
 
 **DevOps & Cloud:**
 
-![Docker](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=6aa6f8)
-![Azure](https://img.shields.io/badge/Cloud-Azure-informational?style=flat&logo=microsoftazure&logoColor=white&color=6aa6f8)
-![GitHub Actions](https://img.shields.io/badge/CI/CD-GitHub_Actions-informational?style=flat&logo=githubactions&logoColor=white&color=6aa6f8)
-![Kong](https://img.shields.io/badge/Gateway-Kong-informational?style=flat&logo=kong&logoColor=white&color=6aa6f8)
+<div>
+  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="Docker" title="Docker" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=azure" height="40" alt="Azure" title="Azure" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=githubactions" height="40" alt="GitHub Actions" title="GitHub Actions" />
+</div>
 
-**Automation:**
+**Automation & Payments:**
 
-![n8n](https://img.shields.io/badge/Automation-n8n-informational?style=flat&logo=n8n&logoColor=white&color=6aa6f8)
-![Stripe](https://img.shields.io/badge/Payments-Stripe-informational?style=flat&logo=stripe&logoColor=white&color=6aa6f8)
-
-## GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=muneebxhasan&theme=dracula&column=7&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
+<div>
+  <img src="https://skillicons.dev/icons?i=n8n" height="40" alt="n8n" title="n8n" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=stripe" height="40" alt="Stripe" title="Stripe" />
+</div>
 
 ## Highlight Projects
 

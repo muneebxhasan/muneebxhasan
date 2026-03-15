@@ -11,25 +11,27 @@
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
+  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="60" alt="storybook logo"  />
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="graphql logo"  />
+  <img src="https://skillicons.dev/icons?i=fastapi" height="60" alt="fastapi logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo"  />
+  <img src="https://skillicons.dev/icons?i=postgres" height="60" alt="postgresql logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo"  />
+  <img src="https://skillicons.dev/icons?i=kafka" height="60" alt="kafka logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo"  />
+  <img src="https://skillicons.dev/icons?i=docker" height="60" alt="docker logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+  <img src="https://skillicons.dev/icons?i=azure" height="60" alt="azure logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
+  <img src="https://skillicons.dev/icons?i=github" height="60" alt="github actions logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/n8n/n8n-original.svg" height="60" alt="n8n logo" onerror="this.src='https://avatars.githubusercontent.com/u/45487711?s=60'" />
 </div>
 
 ###
@@ -52,8 +54,8 @@
 
 - 🎓 **BS Cyber Security** student at **University of Management and Technology (UMT)** with hands-on web development experience
 - 🚀 Building full-stack projects with **Next.js**, **FastAPI**, and **microservices**
-- ☁️ Exploring **cloud deployments** on Azure & AWS with Docker and CI/CD pipelines
-- 🤖 Interested in **Generative AI**, agentic systems, and applied ML
+- ☁️ Exploring **cloud deployments** on Azure with Docker and CI/CD pipelines
+- 🤖 Interested in **Generative AI**, agentic systems, and workflow automation with **n8n**
 - 🔒 Background in **security** with a focus on building robust, scalable systems
 
 ###
@@ -62,19 +64,26 @@
 
 | Project | Description | Stack |
 |---|---|---|
-| [FullStack E-Commerce](https://github.com/muneebxhasan/FullStackWebApplication-ecomerce) | Modern e-commerce app with product listings, Stripe checkout & admin dashboard | TypeScript, Next.js |
-| [Event-Driven Microservices API](https://github.com/muneebxhasan/Event-Driven-Microservices-Architecture-Api) | Marketplace API with JWT auth, PostgreSQL, Docker Compose & Kong Gateway | Python, FastAPI |
-| [Azure Starter App](https://github.com/muneebxhasan/AzureStarterApp) | Professional Python web app template with Azure deployment & CI/CD | Dockerfile, Python |
-| [AI Interior Design](https://github.com/muneebxhasan/interior__design) | AI-powered interior design tool with automated customer conversations | TypeScript, FastAPI |
+| [FullStack E-Commerce](https://github.com/muneebxhasan/FullStackWebApplication-ecomerce) | Modern e-commerce app with product listings, Stripe checkout & admin dashboard | TypeScript, Next.js, Tailwind, Stripe |
+| [Event-Driven Microservices API](https://github.com/muneebxhasan/Event-Driven-Microservices-Architecture-Api) | Marketplace API with JWT auth, Kafka, PostgreSQL, Docker & Kong Gateway | Python, FastAPI, Kafka, PostgreSQL |
+| [Azure Starter App](https://github.com/muneebxhasan/AzureStarterApp) | Python web app template with Azure deployment & GitHub Actions CI/CD | Python, Docker, Azure |
+| [AI Interior Design](https://github.com/muneebxhasan/interior__design) | AI-powered interior design chatbot with lead capture & booking workflows | TypeScript, Next.js, FastAPI |
 
 ###
 
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=muneebxhasan&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
   <img src="https://github-profile-trophy.vercel.app?username=muneebxhasan&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph" />
 </div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/muneebxhasan/muneebxhasan/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/muneebxhasan/muneebxhasan/output/snake.svg">
+  <img alt="snake eating contributions" src="https://raw.githubusercontent.com/muneebxhasan/muneebxhasan/output/snake.svg">
+</picture>
 
 ###
 

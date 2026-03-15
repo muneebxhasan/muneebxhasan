@@ -1,94 +1,88 @@
-<h1 align="center">Hey 👋 What's Up?</h1>
+<h1 align="center">Hey, I'm Muneeb Hassan</h1>
 
 <p align="center">
-  <b>Muneeb Hassan</b> — BS Cyber Security student & Full-Stack Developer
-</p>
-
-<p align="center">
-  Building modern web apps, microservices, and AI-powered tools. Passionate about clean UI, scalable architecture, and cloud deployment.
-</p>
-
-###
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=fastapi" height="60" alt="fastapi logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="60" alt="postgresql logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=kafka" height="60" alt="kafka logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=docker" height="60" alt="docker logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=azure" height="60" alt="azure logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="60" alt="github actions logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/n8n/n8n-original.svg" height="60" alt="n8n logo" onerror="this.src='https://avatars.githubusercontent.com/u/45487711?s=60'" />
-</div>
-
-###
-
-<div align="center">
   <a href="https://www.linkedin.com/in/muneebxhasan/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
+    <img src="https://img.shields.io/badge/LinkedIn-muneebxhasan-0077B5?style=flat&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://twitter.com/muneebxhasan" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo" />
+    <img src="https://img.shields.io/badge/Twitter-muneebxhasan-1DA1F2?style=flat&logo=twitter&logoColor=white" />
   </a>
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo" />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo" />
-  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo" />
-</div>
+  <a href="https://github.com/muneebxhasan" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-muneebxhasan-181717?style=flat&logo=github&logoColor=white" />
+  </a>
+</p>
 
-###
+```python
+class MuneebHassan:
 
-## About Me
+    def __init__(self):
+        self.name     = "Muneeb Hassan"
+        self.role     = "Full-Stack Developer"
+        self.university = "University of Management and Technology (UMT)"
+        self.degree   = "BS Cyber Security"
+        self.interests = ["Web Dev", "Microservices", "AI Automation", "n8n"]
 
-- 🎓 **BS Cyber Security** student at **University of Management and Technology (UMT)** with hands-on web development experience
-- 🚀 Building full-stack projects with **Next.js**, **FastAPI**, and **microservices**
-- ☁️ Exploring **cloud deployments** on Azure with Docker and CI/CD pipelines
-- 🤖 Interested in **Generative AI**, agentic systems, and workflow automation with **n8n**
-- 🔒 Background in **security** with a focus on building robust, scalable systems
+    def say_hi(self):
+        print("Thanks for dropping by, hope you find some of my work interesting.")
 
-###
+me = MuneebHassan()
+me.say_hi()
+```
 
-## Featured Projects
+## Technologies & Tools
 
-| Project | Description | Stack |
-|---|---|---|
-| [FullStack E-Commerce](https://github.com/muneebxhasan/FullStackWebApplication-ecomerce) | Modern e-commerce app with product listings, Stripe checkout & admin dashboard | TypeScript, Next.js, Tailwind, Stripe |
-| [Event-Driven Microservices API](https://github.com/muneebxhasan/Event-Driven-Microservices-Architecture-Api) | Marketplace API with JWT auth, Kafka, PostgreSQL, Docker & Kong Gateway | Python, FastAPI, Kafka, PostgreSQL |
-| [Azure Starter App](https://github.com/muneebxhasan/AzureStarterApp) | Python web app template with Azure deployment & GitHub Actions CI/CD | Python, Docker, Azure |
-| [AI Interior Design](https://github.com/muneebxhasan/interior__design) | AI-powered interior design chatbot with lead capture & booking workflows | TypeScript, Next.js, FastAPI |
+**Frontend:**
 
-###
+![TypeScript](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=6aa6f8)
+![Next.js](https://img.shields.io/badge/Framework-Next.js-informational?style=flat&logo=next.js&logoColor=white&color=6aa6f8)
+![Tailwind CSS](https://img.shields.io/badge/Style-TailwindCSS-informational?style=flat&logo=tailwindcss&logoColor=white&color=6aa6f8)
 
-## GitHub Stats
+**Backend:**
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=muneebxhasan&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph" />
-</div>
+![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
+![FastAPI](https://img.shields.io/badge/Framework-FastAPI-informational?style=flat&logo=fastapi&logoColor=white&color=6aa6f8)
+![PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=6aa6f8)
+![Apache Kafka](https://img.shields.io/badge/Messaging-Kafka-informational?style=flat&logo=apachekafka&logoColor=white&color=6aa6f8)
+![JWT](https://img.shields.io/badge/Auth-JWT-informational?style=flat&logo=jsonwebtokens&logoColor=white&color=6aa6f8)
 
-###
+**DevOps & Cloud:**
+
+![Docker](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=6aa6f8)
+![Azure](https://img.shields.io/badge/Cloud-Azure-informational?style=flat&logo=microsoftazure&logoColor=white&color=6aa6f8)
+![GitHub Actions](https://img.shields.io/badge/CI/CD-GitHub_Actions-informational?style=flat&logo=githubactions&logoColor=white&color=6aa6f8)
+![Kong](https://img.shields.io/badge/Gateway-Kong-informational?style=flat&logo=kong&logoColor=white&color=6aa6f8)
+
+**Automation:**
+
+![n8n](https://img.shields.io/badge/Automation-n8n-informational?style=flat&logo=n8n&logoColor=white&color=6aa6f8)
+![Stripe](https://img.shields.io/badge/Payments-Stripe-informational?style=flat&logo=stripe&logoColor=white&color=6aa6f8)
+
+## GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=muneebxhasan&theme=dracula&column=7&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
+
+## Highlight Projects
+
+<a href="https://github.com/muneebxhasan/FullStackWebApplication-ecomerce">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=muneebxhasan&repo=FullStackWebApplication-ecomerce&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="FullStack E-Commerce" />
+</a>
+
+<a href="https://github.com/muneebxhasan/Event-Driven-Microservices-Architecture-Api">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=muneebxhasan&repo=Event-Driven-Microservices-Architecture-Api&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Event-Driven Microservices API" />
+</a>
+
+<a href="https://github.com/muneebxhasan/interior__design">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=muneebxhasan&repo=interior__design&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="AI Interior Design" />
+</a>
+
+<a href="https://github.com/muneebxhasan/AzureStarterApp">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=muneebxhasan&repo=AzureStarterApp&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Azure Starter App" />
+</a>
+
+<br><br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/muneebxhasan/muneebxhasan/output/snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/muneebxhasan/muneebxhasan/output/snake.svg">
-  <img alt="snake eating contributions" src="https://raw.githubusercontent.com/muneebxhasan/muneebxhasan/output/snake.svg">
-</picture>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/muneebxhasan/muneebxhasan/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/muneebxhasan/muneebxhasan/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/muneebxhasan/muneebxhasan/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
 </picture>
